@@ -6,5 +6,5 @@ This script creates a .csv file with all relevant information for MDM (serial nu
 ## OS
 This script is for Windows only.
 
-##Usage
+## Usage
 Creat an Automatic Task (Task Scheduler) which executes the startup.cmd (elevated privileges are required).
