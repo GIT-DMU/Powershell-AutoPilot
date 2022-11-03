@@ -1,2 +1,2 @@
 Powershell Set-ExecutionPolicy Unrestricted
-Powershell C:\AutoPilot\ExportAutopilotData.ps1
+Powershell C:<YourPath>\ExportAutopilotData.ps1
